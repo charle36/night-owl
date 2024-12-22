@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Home Page.md","permalink":"/blog/home-page/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"dg-path":"Blog/Home Page.md","permalink":"/blog/home-page/"}
 ---
 
 Welcome to my blog!
 
 # Recents posts
+- [[Vault/Blog/Blog\|Blog]]
+- [[Vault/Blog/Home Page\|Home Page]]
+- [[Vault/Blog/What is Induction\|What is Induction]]
+- [[Vault/Blog/Kant’s Terminology\|Kant’s Terminology]]
 
 { .block-language-dataview}
