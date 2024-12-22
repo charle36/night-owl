@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/home-page/","tags":["area","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/vault/home-page/","tags":["area","gardenEntry"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 fsthgghjk[^1]
 
-[^1]: dfghjk adf
+[^1]: dfghjk 
 
 
 
