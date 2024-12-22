@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/vault/home-page/","tags":["area","gardenEntry","gardenEntry"],"created":"2024-12-21","updated":"2024-12-21"}
+{"dg-publish":true,"permalink":"/vault/home-page/","tags":["area","gardenEntry"]}
 ---
 
 
 *tldr: I ❤️ Belén !*
 
-fghjk[^1]
+fsthgghjk[^1]
 
 [^1]: dfghjk
+
+
+
+<a href="mailto:charle_@live.ca" class="email-button">Contact Us</a>
