@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/What is Induction?.md","permalink":"/blog/what-is-induction/","title":"What is Induction?"}
+{"dg-publish":true,"permalink":"/vault/blog/what-is-induction/","title":"What is Induction?"}
 ---
 
 test
