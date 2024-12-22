@@ -1,15 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vault/blog/home-page/","tags":["area","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/vault/blog/home-page/","tags":["area","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
+Welcome to my blog!
 
-*tldr: I ❤️ Belén !*
+# Recents posts
 
-
-[[Vault/Blog/What is Induction?\|What is Induction?]]
-<a href="mailto:charle_@live.ca" class="email-button">Contact Us</a>
-
-fsthgghjk[^1]
-
-[^1]: dfghjk 
-
+{ .block-language-dataview}
