@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Kant’s Terminology.md","permalink":"/blog/kant-s-terminology/"}
+{"dg-publish":true,"dg-path":"Blog/Kant’s Terminology.md","permalink":"/Blog/Kant’s Terminology/"}
 ---
 
 

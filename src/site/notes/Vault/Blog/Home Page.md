@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Home Page.md","permalink":"/blog/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Blog/Home Page.md","permalink":"/Blog/Home Page/","tags":["gardenEntry"]}
 ---
 
 Welcome to my blog!
