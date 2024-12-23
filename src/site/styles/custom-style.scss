@@ -1,5 +1,5 @@
 body {
-    #floating-control {
+ #floating-control {
     position: fixed;
     color: var(--link-color);
     bottom: 1vmax;
@@ -10,4 +10,25 @@ body {
     flex-direction: column;
     justify-content: flex-end;
     gap: 5px;
+
+    .svg-icon,
+    i {
+      cursor: pointer;
+      height: 24px;
+      width: auto;
+    }
+
+    #theme-switch {
+      .light {
+        display: none;
+      }
+
+      .dark {
+        display: none;
+      }
+
+      .auto {
+        display: none;
+      }
+    }
 }
