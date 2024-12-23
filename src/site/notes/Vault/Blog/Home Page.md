@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Blog/Home Page.md","permalink":"/Blog/Home Page/","tags":["gardenEntry"],"created":"2024-12-23T10:59:00","updated":"2024-12-23T10:59:00"}
 ---
 
-Welcome to my blog!
+# Welcome to my blog!
 
 # Recents posts
 - [[Vault/Blog/Blog\|Blog]]
