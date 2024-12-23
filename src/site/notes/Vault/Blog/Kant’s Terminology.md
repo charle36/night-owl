@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Kant’s Terminology.md","permalink":"/Blog/Kant’s Terminology/"}
+{"dg-publish":true,"dg-path":"Kant’s Terminology.md","permalink":"/Kant’s Terminology/"}
 ---
 
 
@@ -14,14 +14,25 @@ I decided to put some definitions here to help others and myself better understa
 
 # Analysis
 # Antinomy
+# Apperception
+# Categories
 # Conception
+- Concept
+- Pure concept
+# Dogmatic
+# Empirical
 # Experience
 # Judgement
 # Imagination
 # Intuition
 - Internal intuition
 - External intuition
+# Logic
+- Applied logic
+- General logic
+- Transcendantal logic
 # Manifold
+# Metaphysics
 # Noumenon
 # Senses
 
@@ -30,7 +41,9 @@ I decided to put some definitions here to help others and myself better understa
 # Substance
 # Reason
 - Pure reason
+# Science
 # Synthesis
 # Transcendental
+- Transcendental logic
 
 # Understanding
