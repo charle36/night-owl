@@ -26,10 +26,6 @@ body {
       .dark {
         display: none;
       }
-
-      .auto {
-        display: none;
-      }
     }
 
     #theme-switch.light {
@@ -43,10 +39,6 @@ body {
         display: inline;
       }
     }
-
-    #theme-switch.auto {
-      .auto {
-        display: inline;
       }
     }
   }
