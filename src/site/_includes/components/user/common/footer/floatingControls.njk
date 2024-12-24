@@ -60,6 +60,7 @@
         const settings = window.localStorage.getItem('site-theme');
         if (!settings || settings == "auto") {
             window.localStorage.setItem('site-theme', "auto");
+            setTheme("dark", true);
         }
     });
     document.getElementById('theme-switch').addEventListener('click', function() {
