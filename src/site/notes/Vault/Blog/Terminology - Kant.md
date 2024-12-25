@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Terminology - Kant.md","permalink":"/Terminology - Kant/","title":"Terminology: Kant","tags":["terminology"],"created":"2024-12-22T14:47:02.458-05:00","updated":"2024-12-25T16:42:06.736-05:00"}
+{"dg-publish":true,"dg-path":"Terminology - Kant.md","permalink":"/Terminology - Kant/","title":"Terminology: Kant","tags":["terminology"],"created":"2024-12-22T14:47:02.458-05:00","updated":"2024-12-25T16:42:56.207-05:00"}
 ---
 
 
