@@ -290,7 +290,7 @@ ul.task-list {
     }
 
     .toc {
-        display: none;
+        display: flex;
     }
 }
 @media (max-width: 800px) {
