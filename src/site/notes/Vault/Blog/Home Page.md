@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/Home Page/","tags":["gardenEntry"],"created":"2024-12-21T20:35:51.089-05:00","updated":"2024-12-26T14:54:57.630-05:00"}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/Home Page/","tags":["gardenEntry"],"created":"2024-12-21T20:35:51.089-05:00","updated":"2024-12-26T16:42:39.676-05:00"}
 ---
 
-## Welcome to my blog!
+## Welcome to my blog! 
 
 ## Recent posts
 |                                                         |                                                                                             |
