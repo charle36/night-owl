@@ -808,7 +808,7 @@ body.theme-dark>.navbar,
 body.theme-dark>.content,
 body.theme-dark>aside,
 body>footer {
-  width: 50%;
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
   padding: var(--block-spacing-vertical) var(--block-spacing-horizontal);
@@ -822,7 +822,7 @@ body>footer {
   body.theme-dark>.content,
   body.theme-dark>aside,
   body>footer {
-    max-width: 10px;
+    max-width: 510px;
     padding-right: 0;
     padding-left: 0;
   }
