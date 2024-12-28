@@ -1,12 +1,12 @@
 body {
   #floating-control {
-    position: fixed;
+    position: flex;
     color: var(--link-color);
     bottom: 1vmax;
     right: 1vmax;
     font-size: 24px;
     z-index: 999999;
-    display: fixed;
+    display: flex;
     flex-direction: column;
     justify-content: flex-end;
     gap: 5px;
