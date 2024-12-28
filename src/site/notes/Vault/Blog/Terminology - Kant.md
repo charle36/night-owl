@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Terminology - Kant.md","permalink":"/Terminology - Kant/","title":"Terminology: Kant","tags":["terminology"],"dgShowToc":true,"created":"2024-12-22T14:47:02.458-05:00","updated":"2024-12-27T19:15:54.808-05:00"}
+{"dg-publish":true,"dg-path":"Terminology - Kant.md","permalink":"/Terminology - Kant/","title":"Terminology: Kant","tags":["terminology"],"dgShowToc":true,"created":"2024-12-22T14:47:02.458-05:00","updated":"2024-12-27T19:17:55.107-05:00"}
 ---
 
 
@@ -36,6 +36,7 @@ I decided to put some definitions here to help others and myself better understa
 <li dir="auto"><a data-tooltip-position="top" aria-label="Vault/Blog/Terminology - Kant.md > Transcendental" data-href="Vault/Blog/Terminology - Kant.md#Transcendental" href="Vault/Blog/Terminology - Kant.md#Transcendental" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener nofollow" data-link-tags="#terminology" data-link-path="Vault/Blog/Terminology - Kant.md" style="--data-link-tags: #terminology; --data-link-path: Vault/Blog/Terminology - Kant.md;">Transcendental</a></li>
 <li dir="auto"><a data-tooltip-position="top" aria-label="Vault/Blog/Terminology - Kant.md > Understanding" data-href="Vault/Blog/Terminology - Kant.md#Understanding" href="Vault/Blog/Terminology - Kant.md#Understanding" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener nofollow" data-link-tags="#terminology" data-link-path="Vault/Blog/Terminology - Kant.md" style="--data-link-tags: #terminology; --data-link-path: Vault/Blog/Terminology - Kant.md;">Understanding</a></li>
 </ul></span></p>
+
 # Abstraction
 ## To abstract
 “But then I expand my cognition: by looking back to the experience from which I have abstracted this concept of body, I also find heaviness to be always connected with the above characteristics; and so I add it, as a predicate, to that concept synthetically. Hence experience is what makes possible the synthesis of the predicate of heavi ness with the concept of body.” ([Kant et al., 1996, p. 113-114](zotero://select/library/items/YU69PSGF)) ([pdf](zotero://open-pdf/library/items/CW4KTAEF?page=113&annotation=3EL9KM4T))
