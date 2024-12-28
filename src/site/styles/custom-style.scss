@@ -1,6 +1,6 @@
 body {
   #floating-control {
-    position: flex;
+    position: fixed;
     color: var(--link-color);
     bottom: 1vmax;
     right: 1vmax;
@@ -2939,9 +2939,6 @@ body.theme-dark {
     background: transparent;
   }
 
-  .search-keys {
-    display: none;
-  }
 
   // Sidebar (backlinks) on bottom
   .sidebar {
