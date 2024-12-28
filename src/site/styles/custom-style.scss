@@ -802,12 +802,12 @@ main {
   display: block;
 }
 
-body>header,
 body>main,
 body.theme-dark>.navbar,
 body.theme-dark>.content,
+body>backlinks,
 body>footer {
-  width: 70%;
+  width: 75%;
   margin-right: auto;
   margin-left: auto;
   padding: var(--block-spacing-vertical) var(--block-spacing-horizontal);
