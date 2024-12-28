@@ -1,9 +1,9 @@
 body {
   #floating-control {
-    position: flex;
+    position: fixed;
     color: var(--link-color);
     bottom: 1vmax;
-    right: 1vmax;
+    right: 0;
     font-size: 24px;
     z-index: 999999;
     display: flex;
