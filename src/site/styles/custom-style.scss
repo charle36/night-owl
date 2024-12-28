@@ -1,4 +1,6 @@
 body {
+
+  // Floating buttons
   #floating-control {
     position: fixed;
     color: var(--link-color);
@@ -18,8 +20,36 @@ body {
       width: auto;
     }
   }
+  
+// Aaron's typography overrides **** //
+$base-font-size: 16px;
+$large-base-font-size: 18px;
+
+$base-line-height: 1.8rem;
+
+$accent-color: #12b886;
+
+// Major Third scale
+$h1-font-size: 2.074rem;
+$h2-font-size: 1.728rem;
+$h3-font-size: 1.44rem;
+$h4-font-size: 1.2rem;
+$h5-font-size: 1rem;
+$h6-font-size: 1rem;
+
+html { font-size: $base-font-size;
+  @media screen and (min-width: 900px) {
+    font-size: $large-base-font-size;
+  }
 }
 
+// Distance between 
+
+.timestamps {
+  margin-bottom: 20px;
+}
+
+// Navbar move with page
 .navbar {
     position: relative;
     background-color: rgba(0, 0, 0, 0);
