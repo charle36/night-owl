@@ -424,16 +424,12 @@ kbd {
   --font-weight: bolder;
 }
 
-[
-
 progress,
 [type=checkbox],
 [type=radio],
 [type=range] {
   accent-color: var(--primary);
 }
-
-]
 
 /**
  * Document
