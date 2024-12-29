@@ -20,6 +20,23 @@ body {
       width: auto;
     }
   }
+// Headers size
+  /* Heading 1 */
+h1 {
+	border-bottom-style: solid !important;
+	border-width: 1px !important;
+	border-color: grey !important;
+	font-size: 24px !important;
+	margin-top: 8px;
+}
+.HyperMD-header-1 {
+	border-bottom-style: solid !important;
+	border-width: 1px !important;
+	border-color: grey !important;
+	font-size: 26px !important;
+	margin-top: 8px;
+}
+
 /* Heading 2 */
 h2 {
 	font-size: 20px !important;
@@ -93,21 +110,5 @@ h6 {
 }
 
 
-// Headers size
-  /* Heading 1 */
-h1 {
-	border-bottom-style: solid !important;
-	border-width: 1px !important;
-	border-color: grey !important;
-	font-size: 24px !important;
-	margin-top: 8px;
-}
-.HyperMD-header-1 {
-	border-bottom-style: solid !important;
-	border-width: 1px !important;
-	border-color: grey !important;
-	font-size: 26px !important;
-	margin-top: 8px;
-}
 
 
