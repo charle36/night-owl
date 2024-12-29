@@ -20,41 +20,6 @@ body {
       width: auto;
     }
   }
-}
-
-// Distance between timestamp and text
-.timestamps {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-
-// Navbar move with page
-.navbar {
-    position: relative;
-	background-color: rgba(0, 0, 0, 0);
-    flex-wrap: wrap;
-    margin-bottom: 0px;
-}
-
-
-// Headers size
-  /* Heading 1 */
-h1 {
-	border-bottom-style: solid !important;
-	border-width: 1px !important;
-	border-color: grey !important;
-	font-size: 24px !important;
-	margin-top: 8px;
-}
-.HyperMD-header-1 {
-	border-bottom-style: solid !important;
-	border-width: 1px !important;
-	border-color: grey !important;
-	font-size: 26px !important;
-	margin-top: 8px;
-}
-
 /* Heading 2 */
 h2 {
 	font-size: 20px !important;
@@ -110,4 +75,39 @@ h6 {
 	font-weight: bold !important;
 	margin-top: 8px;
 }
+}
+
+// Distance between timestamp and text
+.timestamps {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+// Navbar move with page
+.navbar {
+    position: relative;
+	background-color: rgba(0, 0, 0, 0);
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+}
+
+
+// Headers size
+  /* Heading 1 */
+h1 {
+	border-bottom-style: solid !important;
+	border-width: 1px !important;
+	border-color: grey !important;
+	font-size: 24px !important;
+	margin-top: 8px;
+}
+.HyperMD-header-1 {
+	border-bottom-style: solid !important;
+	border-width: 1px !important;
+	border-color: grey !important;
+	font-size: 26px !important;
+	margin-top: 8px;
+}
+
 
