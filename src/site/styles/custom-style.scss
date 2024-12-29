@@ -21,15 +21,21 @@ body {
     }
   }
 // Headers size
+  /* Header */
+h1 {
+	border-bottom-style: none !important;
+	font-size: 30px !important;
+	margin-top: 8px;
+}
   /* Heading 1 */
-p h1 {
+h1 {
 	border-bottom-style: solid !important;
 	border-width: 1px !important;
 	border-color: grey !important;
 	font-size: 24px !important;
 	margin-top: 8px;
 }
-p .HyperMD-header-1 {
+.HyperMD-header-1 {
 	border-bottom-style: solid !important;
 	border-width: 1px !important;
 	border-color: grey !important;
