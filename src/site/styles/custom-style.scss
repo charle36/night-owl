@@ -123,6 +123,13 @@ h6 {
 .content {
 	margin-top: 40px;
 }
+.navbar h1 :before {
+content:url('/favicon.svg');
+        display: inline-block;
+        padding-right: 3px;
+        vertical-align: middle;
+        font-weight: 900;
+      }
   /* Header */
 header h1 {
 	border-bottom-style: none !important;
