@@ -97,7 +97,7 @@ h6 {
 // Distance between timestamp and text
 .timestamps {
   margin-top: 10px !important;
-  margin-bottom: 10px !important;
+  margin-bottom: 15px !important;
 }
 
 
@@ -107,6 +107,8 @@ h6 {
 	background-color: rgba(0, 0, 0, 0);
     flex-wrap: wrap;
     margin-bottom: 0px !important;
+}
+.navbar h1 {
 	border-bottom-style: none !important;
 	font-size: 30px !important;
 	margin-top: 8px !important;
