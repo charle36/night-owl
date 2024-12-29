@@ -25,7 +25,7 @@ body {
 // Headers size
   /* Heading 1 */
 h1 {
-	border-bottom-style: solid !important;
+	border-bottom-style: none !important;
 	border-width: 1px !important;
 	border-color: grey !important;
 	font-size: 24px !important;
@@ -37,25 +37,24 @@ h1 {
 h2 {
 	font-size: 20px !important;
 	margin-top: 12px !important;
-	
-  font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 .HyperMD-header-2 {
 	font-size: 20px !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 
 /* Heading 3 */
 h3 {
 	font-size: 16px !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 .HyperMD-header-3 {
 	font-size: 16px !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 
 /* Heading 4 */
@@ -63,13 +62,13 @@ h4 {
 	font-size: 14px !important;
 	font-style: normal !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !importantv;
 }
 .HyperMD-header-4 {
 	font-size: 14px !important;
 	font-style: normal !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 
 /* Heading 5 */
@@ -77,13 +76,13 @@ h5 {
 	font-size: 14px !important;
 	font-style: italic !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 .HyperMD-header-5 {
 	font-size: 14px !important;
 	font-style: italic !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 
 /* Heading 6 */
@@ -91,13 +90,13 @@ h6 {
 	font-size: 12px !important;
 	font-weight: bold !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 .HyperMD-header-6 {
 	font-size: 12px !important;
 	font-weight: bold !important;
 	margin-top: 12px !important;
-	font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif !important;
 }
 }
 
@@ -121,7 +120,10 @@ h6 {
 	margin-top: 8px !important;
 	font-family: "Averia Serif Libre", serif;
 }
-.navbar h1 ::before {
+.content {
+	margin-top: 20px;
+}
+.navbar h1::before {
     content: A
 }
   /* Header */
@@ -129,8 +131,7 @@ header h1 {
 	border-bottom-style: none !important;
 	font-size: 30px !important;
 	margin-top: 8px !important;
-	
-  font-family: "Averia Serif Libre", serif;
+	font-family: "Averia Serif Libre", serif;
 }
 
 // list
