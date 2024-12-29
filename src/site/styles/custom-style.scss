@@ -124,15 +124,17 @@ h6 {
 	margin-top: 40px;
 }
 .navbar h1::before {
-content:url('/favicon.svg');
-        display: inline-block;
-        padding-right: 3px;
-        vertical-align: middle;
-        font-weight: 900;
-	height: 500px;
-	width: 500px;
-	color: white;
-      }
+  content: '';
+  display: inline-block;
+  width: 24px; /* Adjust size */
+  height: 24px; /* Adjust size */
+  background-image: url('/favicon.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 3px;
+  vertical-align: middle;
+  filter: invert(1); /* Makes the image white */
+}
   /* Header */
 header h1 {
 	border-bottom-style: none !important;
