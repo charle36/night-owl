@@ -27,70 +27,70 @@ h1 {
 	border-width: 1px !important;
 	border-color: grey !important;
 	font-size: 24px !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 .HyperMD-header-1 {
 	border-bottom-style: solid !important;
 	border-width: 1px !important;
 	border-color: grey !important;
 	font-size: 26px !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 
 /* Heading 2 */
 h2 {
 	font-size: 20px !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 .HyperMD-header-2 {
 	font-size: 20px !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 
 /* Heading 3 */
 h3 {
 	font-size: 16px !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 .HyperMD-header-3 {
 	font-size: 16px !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 
 /* Heading 4 */
 h4 {
 	font-size: 14px !important;
 	font-style: normal !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 .HyperMD-header-4 {
 	font-size: 14px !important;
 	font-style: normal !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 
 /* Heading 5 */
 h5 {
 	font-size: 14px !important;
 	font-style: italic !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 .HyperMD-header-5 {
 	font-size: 14px !important;
 	font-style: italic !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 
 /* Heading 6 */
 h6 {
 	font-size: 12px !important;
 	font-weight: bold !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 .HyperMD-header-6 {
 	font-size: 12px !important;
 	font-weight: bold !important;
-	margin-top: 8px !important;
+	margin-top: 12px !important;
 }
 }
 
@@ -107,6 +107,9 @@ h6 {
 	background-color: rgba(0, 0, 0, 0);
     flex-wrap: wrap;
     margin-bottom: 0px !important;
+	border-bottom-style: none !important;
+	font-size: 30px !important;
+	margin-top: 8px !important;
 }
   /* Header */
 header h1 {
