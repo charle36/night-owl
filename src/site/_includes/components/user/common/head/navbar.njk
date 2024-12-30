@@ -1,9 +1,19 @@
-
-{% extends "src/site/_includes/components/navbar.njk" %}
-
-{% block navbar_content %}
-  <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
-  </svg>
-  {{ super() }} <!-- This includes the original navbar content -->
-{% endblock %}
+{%if settings.dgHomeLink === true%}
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <a href="/" style="text-decoration: none;">
+                <img src="/favicon.svg" />
+                <h1>{{meta.siteName}}</h1>
+            </a>
+        </div>
+        {% if settings.dgEnableSearch === true%}
+            {% include "components/searchButton.njk" %}
+        {%endif%}
+    </nav>
+    {%else%}
+    <div class="empty-navbar" >
+        {% if settings.dgEnableSearch === true%}
+            {% include "components/searchButton.njk" %}
+        {%endif%}
+    </div>
+{%endif%}
