@@ -123,17 +123,11 @@ h6 {
 .content {
 	margin-top: 40px;
 }
-.navbar h1::before {
-  content: '';
-  display: inline-block;
-  width: 24px; /* Adjust size */
-  height: 24px; /* Adjust size */
-  background-image: url('/favicon.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  margin-right: 3px;
-  vertical-align: middle;
-  filter: invert(1); /* Makes the image white */
+.icon {
+  fill: blue; /* Change to your desired color */
+  width: 30px; /* Adjust icon size */
+  height: 30px; /* Adjust icon size */
+  margin-right: 8px;
 }
   /* Header */
 header h1 {
